@@ -37,6 +37,13 @@ Here’s a simplified sample of what a file might look like:
     }
 }
 
+```
+
+⚖️ License
+This project is licensed under the Creative Commons Zero v1.0 Universal (CC0 1.0) license.
+You are free to copy, modify, distribute, and use the files—even for commercial purposes—without asking permission.
+
+For more info, see: https://creativecommons.org/publicdomain/zero/1.0/
 
 🛑 Disclaimer
 
