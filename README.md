@@ -38,9 +38,7 @@ Here’s a simplified sample of what a file might look like:
 }
 
 
-
-
-##🛑 Disclaimer
+🛑 Disclaimer
 
 These summaries are for informational and educational purposes only.
 They do not constitute financial advice.
