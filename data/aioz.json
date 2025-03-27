@@ -1,0 +1,12 @@
+{
+    "summary": "The AIOZ Video Streaming Network aims to revolutionize video streaming through a decentralized peer-to-peer content delivery network (dCDN). It addresses the limitations of centralized networks by increasing scalability, privacy, and security. AIOZ uses blockchain technology to enable direct interaction between content creators and viewers. The platform leverages Edge Nodes to store, process, and deliver video content, while HUB Nodes manage network performance, enforce compliance through proof-based verification, handle token distribution, and preserve data integrity. HUB Nodes also track Edge Node reputation and performance, enhancing network efficiency and reliability. The project’s open-source design encourages transparency and third-party development.",
+    
+    "token utility": "The AIOZ Network tokenomics define the supply, distribution, and utility of the platform's native tokens. Edge Nodes earn tokens by contributing CPU/GPU cycles, storage, and bandwidth for transcoding and delivering video content. HUB Nodes manage and monitor Edge Nodes, ensuring compliance with smart contracts through Proof of Transcoding, Proof of Storage, and Proof of Delivery. Edge Node reputation and statistics are tracked to optimize reward distribution and network efficiency. Viewers can receive tokens by engaging with content on streaming platforms partnered with the AIOZ Network. Rewards for watching ads are determined dynamically based on the type, length, and popularity of the advertisement, creating a market-driven incentive structure. This fosters a collaborative ecosystem where contributors and viewers are both rewarded for their participation.",
+    
+    "risk_factors": "Challenges for AIOZ include ensuring data integrity, preventing cheating in transcoding tasks, and maintaining network performance as user demand scales. Security risks related to data storage and delivery, such as data loss or breaches, are addressed through verification mechanisms like Merkle root trees. Reliability of Edge Nodes and the Proof of Delivery system is critical to maintaining trust and preventing fraud. Regulatory challenges and sustaining performance under increasing network load are additional factors the project must address through robust governance and continuous monitoring.",
+    
+    "metadata": {
+        "source": "AIOZ Network Whitepaper",
+        "word_count": 302
+    }
+}

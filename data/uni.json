@@ -1,0 +1,13 @@
+{
+    "summary": "Uniswap v4 is an automated market maker (AMM) on the Ethereum Virtual Machine (EVM) that enhances developer customization and gas efficiency. It introduces hooks that enable developers to create custom pool logic, a singleton contract for centralized pool state management, and flash accounting to reduce gas costs. The protocol supports native ETH pairs, allowing for lower transaction fees and simplified liquidity management. Uniswap v4 includes new fee mechanisms, custom accounting strategies, and ERC-6909 token accounting for enhanced balance tracking. Governance updates enable capped fee collection from pools, and the donate() function allows direct payments to in-range liquidity providers.",
+  
+    "token_utility": "Uniswap v4’s tokenomics are built around its non-custodial, non-upgradeable, and permissionless structure. The protocol supports customizable pools through hooks, gas-efficient pool management via the singleton contract, and enhanced liquidity strategies through flash accounting. Native ETH pairs are supported, lowering transaction costs and increasing flexibility. ERC-6909 balance accounting enables multi-token balance tracking. New fee mechanisms allow governance to take a capped percentage of swap fees, while the donate() function enables direct payments to liquidity providers.",
+  
+    "risk_factors": "Uniswap v4 faces risks from increased complexity in custom hooks and accounting strategies, which could introduce security vulnerabilities. The integration of native ETH pairs and ERC-6909 tokens expands the protocol's functionality but also increases potential attack surfaces. Governance updates and new fee mechanisms introduce risks related to centralization and fee misallocation. Flash accounting and multi-hop trades increase the risk of collateral failures and liquidity fragmentation. Careful auditing and secure implementation of hooks are critical to maintaining protocol integrity and user security.",
+  
+    "metadata": {
+      "source": "Uniswap v4 Whitepaper",
+      "word_count": 482
+    }
+  }
+  

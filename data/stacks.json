@@ -1,0 +1,13 @@
+{
+    "summary": "Stacks is a Bitcoin layer for smart contracts, enabling decentralized applications to use Bitcoin as an asset while settling transactions on the Bitcoin blockchain. The platform leverages Proof of Transfer (PoX) consensus and a decentralized Bitcoin peg (sBTC) to allow trustless movement of BTC between Bitcoin and Stacks. Stacks enables smart contracts through the Clarity language and provides fast block production every 5 seconds on the Stacks layer, with final settlement occurring on Bitcoin every 10 minutes. Subnets offer additional performance and flexibility, supporting different execution environments and smart contract languages. Stacks enhances Bitcoin’s utility by making BTC a programmable asset for lending, stablecoins, and decentralized finance (DeFi) while maintaining Bitcoin’s security model.",
+  
+    "token_utility": "The STX token powers the Stacks network through the Proof of Transfer (PoX) consensus mechanism, where miners receive BTC for securing the network. STX ensures the liveness and security of the decentralized Bitcoin peg (sBTC), allowing users to lock and unlock BTC from the Stacks layer. Validators are incentivized with BTC rewards for securing the peg and processing transactions. Subnets allow for high-throughput smart contract execution while settling on Bitcoin. STX facilitates governance decisions and provides economic security for decentralized applications within the Stacks ecosystem.",
+  
+    "risk_factors": "Challenges for Stacks include ensuring the security and decentralization of the sBTC peg, maintaining the integrity of the PoX consensus, and protecting against collusion among validators. The decentralized peg’s security depends on economic incentives to prevent unauthorized peg-outs and misbehavior. Scalability issues may arise from managing subnets and supporting different execution environments. The reliance on Bitcoin for final settlement introduces risks from Bitcoin network forks and potential long-range attacks. Security concerns related to smart contract vulnerabilities in Clarity and the decentralized peg mechanism remain ongoing challenges for the project.",
+  
+    "metadata": {
+      "source": "Stacks Whitepaper",
+      "word_count": 572
+    }
+  }
+  

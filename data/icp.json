@@ -1,0 +1,12 @@
+{
+    "summary": "The Internet Computer (IC) is a blockchain network designed to run decentralized applications with fast, scalable, and cost-effective infrastructure. It removes the limits of traditional blockchains by offering low-cost computation and storage with high throughput. The IC's native token, ICP, is used for governance and to cover computational costs. The project supports a full technology stack for blockchain-based applications. The network includes layers for message routing, execution, and consensus. User requests are processed through query and update calls, with deterministic state updates ensuring consistent results. Chain-key cryptography enables secure message authentication and coordination. The consensus protocol relies on Byzantine fault tolerance to maintain security and order inputs. The IC uses a Distributed Key Generation (DKG) protocol and a resharing process to update shared secrets among network nodes. The network includes a mechanism for handling cross-chain communication and upgrading protocols without disruption.",
+
+    "token_utility": "ICP is used to pay for computation and storage on the IC network. Developers pre-pay in cycles to cover operational costs. ICP also allows token holders to participate in governance through the Network Nervous System (NNS), which controls network upgrades and topology changes. Voting power increases with the amount of staked ICP and the length of the staking period. ICP is also used to reward participants for supporting network operations and maintaining system stability. The token distribution model is designed to promote network growth and decentralization.",
+
+    "risk_factors": "The IC faces challenges related to maintaining security and performance under stress. Byzantine faults can compromise system reliability if too many nodes fail or act maliciously. Storage faults, where data is lost or miners fail to serve data, remain a risk. Cryptographic vulnerabilities in the PVSS scheme or Diffie-Hellman protocols could weaken network security. Efficient handling of cross-subnet communication and network upgrades is critical for stability. Managing network congestion and defending against denial-of-service attacks are ongoing challenges.",
+
+    "metadata": {
+        "source": "The Internet Computer Whitepaper",
+        "word_count": 327
+    }
+}
