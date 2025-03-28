@@ -7,7 +7,7 @@ A collection of 19 standardized JSON summaries covering major cryptocurrency pro
 Each JSON file includes key information about a specific crypto project, such as:
 
 - **Summary** – A concise explanation of the project and its core value proposition  
-- **Tokenomics** – Information on token supply, distribution, utility, and incentive structure  
+- **Token Utility** – Information on token supply, distribution, utility, and incentive structure  
 - **Risk Factors** – Project-specific concerns, vulnerabilities, or other risks to keep in mind  
 
 Files are located in the `/data` folder, named by project (e.g., `bitcoin.json`, `ethereum.json`).
