@@ -4,6 +4,7 @@
     "risk_factors": "Challenges and potential weaknesses in the Bitcoin network include the risk of a majority attack by malicious actors controlling significant CPU power. While the proof-of-work mechanism provides security, an attacker with more computational resources could attempt to rewrite transaction history. Privacy concerns also arise due to the public nature of transactions, potentially revealing sensitive information if not managed properly. Additionally, the system's reliance on honest nodes controlling the network poses a security risk if overtaken by malicious entities, highlighting the need for ongoing vigilance and network integrity maintenance. Challenges and potential weaknesses of the project include security concerns related to the proof-of-work consensus mechanism, potential centralization risks if a majority of CPU power falls under the control of a single entity, and the computational impracticality for an attacker to alter transaction history. Additionally, the document does not address specific risks such as regulatory compliance, scalability issues, or network attacks beyond the discussed proof-of-work vulnerabilities.",
     "metadata": {
         "source": "Bitcoin Whitepaper",
+        "project_name": "Bitcoin",
         "word_count": 438
     }
 }
