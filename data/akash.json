@@ -4,6 +4,7 @@
     "risk_factors": "Challenges for the Akash Network include the early market economy's adoption hurdles due to insufficient demand from tenants, impacting supply. To address this, the project implements an inflation model to incentivize providers and accelerate adoption. Risks also include the need for a robust validator set to maintain network security and scalability. The network's consensus mechanism, based on Proof-of-Stake, aims to prevent Sybil attacks and ensure validator accountability. Additionally, the project faces the challenge of supporting price stability for AKT and other tokens used in the marketplace to mitigate volatility risks and protect stakeholders from price fluctuations. Akash Network faces challenges such as ensuring sufficient token supply distribution, maintaining stakeholder incentives, and managing inflation rates over time. The project's success relies on attracting and retaining participants willing to stake tokens for various durations, balancing rewards with commitment levels. Security concerns may arise from potential vulnerabilities in the mining protocol or governance mechanisms. Addressing these risks effectively is crucial for the project to achieve its goals of network security, stability, and sustainable tokenomics.",
     "metadata": {
         "source": "Akash Network Whitepaper",
+        "project_name": "Akash",
         "word_count": 487
     }
 }
