@@ -1,6 +1,6 @@
 # Coinfinery Crypto Summaries Dataset
 
-A collection of 19 standardized JSON summaries covering major cryptocurrency projects, generated and curated as part of the **Coinfinery** platform. This dataset is designed to be AI-friendly, human-readable, and structured for use in research, model fine-tuning, or educational purposes.
+A collection of 20 standardized JSON summaries covering major cryptocurrency projects, generated and curated as part of the **Coinfinery** platform. This dataset is designed to be AI-friendly, human-readable, and structured for use in research, model fine-tuning, or educational purposes.
 
 ## 🔍 What’s Inside
 
