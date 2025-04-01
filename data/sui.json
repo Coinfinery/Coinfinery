@@ -4,6 +4,7 @@
     "risk_factors": "1. Byzantine Failures: The system depends on a quorum of honest authorities; if this assumption fails, safety and liveness could be compromised. 2. Latency: Transactions involving shared objects require global consensus, which introduces higher latency compared to those using only owned or read-only objects. 3. Authorization Issues: Transactions must be properly authorized to access or mutate specific objects. Misconfigured access or ownership can cause rejection or system inconsistencies. 4. Scalability Challenges: Although the architecture supports parallel execution, shared object transactions can become bottlenecks due to required sequencing in consensus.\n5. Client Dependence: Clients are responsible for updating lagging authorities. If a client is compromised or behaves incorrectly, it may introduce vulnerabilities or inconsistencies in the system.",
     "metadata": {
       "source": "Sui Smart Contracts Platform Whitepaper",
+      "project_name": "Sui",
       "word_count": 417
     }
   }
